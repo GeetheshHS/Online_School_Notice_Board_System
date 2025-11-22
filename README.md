@@ -45,6 +45,3 @@ Possible Future Enhancements
 * Role-based multi-user management
 * Auto-expiry for old notices
 
-
-
-Just tell me!
